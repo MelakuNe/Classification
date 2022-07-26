@@ -3,5 +3,6 @@ This repository contains implementation of different Machine Learning Classifica
 * KNN
 * Decision Tree
 * Logistic Regression
-* Support Vector Machine.
+* Support Vector Machine
+
 The dataset is also attached so just read the dataset from the folder and run the code.
